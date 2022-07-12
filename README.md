@@ -3,8 +3,6 @@
 
 ![Login](https://github.com/biell-lopes/Projeto_Villa_Pizza/blob/main/images/47-12-22-114709.png)
 
-![Menu](https://github.com/biell-lopes/Projeto_Villa_Pizza/blob/main/images/47-12-22-114709.png)
-
 
 # 👨🏻‍🏫 Professor  
  - Alciomar Hollanda 

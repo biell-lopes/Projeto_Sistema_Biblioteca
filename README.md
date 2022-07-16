@@ -11,7 +11,7 @@
 
 # 👨🏻‍🏫 Professor e Turma  
  - Alciomar Hollanda 
- - 2- semestre de S.I
+ - 2º semestre de S.I
 
 
 # 👨‍💻 Dupla
